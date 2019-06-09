@@ -14,3 +14,4 @@ tags:
 
 - [Go-04-编写第一个 Go 程序](src/chapter04)
 - [Go-05-变量、常量以及其他语言的差异](src/chapter05)
+- [Go-06-数据类型](src/chapter06)

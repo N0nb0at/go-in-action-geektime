@@ -10,7 +10,7 @@ tags:
 
 ## 大师与初学者的差异
 
-> The master has failed more times than the  beginner has tried.
+> The master has failed more times than the beginner has tried.
 
 ## 编写测试程序
 
